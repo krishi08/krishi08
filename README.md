@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Python dev" width="50px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
 
-<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-
 <img align="left" alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
 <img align="left" alt="MATLAB" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
@@ -31,4 +29,5 @@ Here are some ideas to get you started:
 <img align="left" alt="OpenCV" width="50px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 
 <img align="left" alt="SciKit Learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
