@@ -1,8 +1,6 @@
 # Hi there, I'm Krishi Vijayanand 👋
 
-**Machine Learning Engineer | Data Scientist**
-
----
+**Machine Learning \& Data Science Engineer | End-to-End AI Solution Delivery**
 
 ## 🛠️ Technical Expertise
 
