@@ -1,8 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Krishi Vijayanand 👋
 
-- 🔭 I’m currently developing an algorithm for extracting key frames from a surgical video. 
-- 🌱 I’m currently learning the basics of Natural Language Processing. 
-- 🤔 I’m looking for help with 3-dimensional vornoization. 
-- 💬 Open to discuss use cases of computer vision.
-- 📫 How to reach me: search for Krishi Vijayanand on LinkedIn, pretty active there. 
-- ⚡ Fun fact: I am a passionate Bharathnatyam Dancer. 
+**Machine Learning Engineer | Data Scientist**
+
+---
+
+## 🛠️ Technical Expertise
+
+**Languages:** Python, C++, SQL, MATLAB  
+**ML/AI:** Scikit-Learn, TensorFlow, PyTorch, MLFlow, Computer Vision, NLP  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Apache Airflow, Apache Spark  
+**Data Engineering:** Kafka, PySpark, Pandas, DynamoDB  
+**Visualization:** Tableau, Grafana, Matplotlib, Seaborn
+
+## 💼 Professional Highlights
+
+- 🎯 Led ML teams delivering production solutions impacting 200,000+ users
+- ⚡ Optimized ML pipelines achieving 40% reduction in processing time
+- 🏆 Built 20+ internal APIs and MLOps frameworks for enterprise clients
+- 📊 2+ years experience in fintech and education ML applications
+
+## 🎭 Beyond Code
+
+🩰 Passionate Bharatanatyam dancer blending creativity with technical precision
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Krishi Vijayanand](https://www.linkedin.com/in/krishi-vijayanand-51793220b)
+- **Location:** Reading, United Kingdom
+- **Open to:** ML Engineering roles, Data Science positions, and exciting collaborations
+
+---
+
+*"Transforming data into insights, algorithms into impact"*
